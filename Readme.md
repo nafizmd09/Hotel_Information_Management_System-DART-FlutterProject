@@ -1,6 +1,4 @@
-Name: Nafiz Md Imtiaz Uddin
-Id : 2520190011
-Project: Hotel Information Management System
+
 
 For APK file:
 ------------
